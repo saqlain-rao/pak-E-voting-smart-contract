@@ -1,6 +1,6 @@
-# VerifiVote - Blockchain
+# Pak e-Voting - Blockchain
 
-Smart contracts for the VerifiVote AI-Driven Decentralized Voting Platform. Built with Solidity, Hardhat, OpenZeppelin Upgradeable Contracts, and deployed to the Ethereum Sepolia Testnet.
+Smart contracts for the Pak e-Voting AI-Driven Decentralized Voting Platform. Built with Solidity, Hardhat, OpenZeppelin Upgradeable Contracts, and deployed to the Ethereum Sepolia Testnet.
 
 ## Architecture & Smart Contracts
 - **`ElectionFactory.sol`**: UUPS upgradeable factory contract that clones and deploys isolated `ElectionProxy` instances for each newly created election.
